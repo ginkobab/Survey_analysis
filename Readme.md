@@ -1,4 +1,4 @@
-# Quesitonario sugli stili di vita e abitudini alimentari
+# Survey study on factors moderating lifestyle and eating habits
 
 ## Analysis
 
