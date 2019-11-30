@@ -2,4 +2,4 @@
 
 ## Analysis
 
-[Data cleaning][github.com/ginkobab/cleaner.ipynb]
+[Data cleaning]{github.com/ginkobab/cleaner.ipynb}
