@@ -1,7 +1,5 @@
 # Quesitonario sugli stili di vita e abitudini alimentari
 
-## Struttura del questionario
+## Analysis
 
-## Raccolta dati
-
-## Analisi
+[Data cleaning][github.com/ginkobab/cleaner.ipynb]
