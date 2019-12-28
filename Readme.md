@@ -1,5 +1,7 @@
 # Survey study on factors moderating lifestyle and eating habits
 
+**Files were moved to ginkobab/Projects/Eating_Survey**
+
 The aim of the study was to find out if there were differences between Americans and Italians in eating habits, and which variables could explain them better.
 
 The subjects were selected from social groups and a Reddit post.
